@@ -20,7 +20,7 @@ The CMU-MOSI and CMU-MOSEI datasets were created and released by the Multicomp L
 They support the findings of this study and are publicly available at https://github.com/thuiar/Self-MM.
 Both datasets are released under the MIT License, which permits use and publication.
 The CH-SIMS dataset was created and released by Wenmeng Yu et al, is also publicly accessible at https://thuiar.github.io/sims.github.io/chsims, and is recommended for academic use with proper citation.
-The subject images in Figures 1, 6, and 7 are from the CMU-MOSI, CMU-MOSEI, and CH-SIMS datasets, all of which are publicly downloadable.
+The subject images in Figures 1, 2, 7 and 8 are from the CMU-MOSI, CMU-MOSEI, and CH-SIMS datasets, all of which are publicly downloadable.
 
 ## Run
 python run.py
