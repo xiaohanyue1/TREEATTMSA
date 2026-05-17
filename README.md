@@ -11,7 +11,7 @@
 - PyTorch >= 2.10
 - NumPy
 
-Install required packages:
+## Install required packages:
 ```bash
 pip install -r requirements.txt
 
