@@ -1,8 +1,6 @@
 # TreeAttMSA: Decoupling Cross-Modal Contexts with Tree-Structured Graph Attention
 
 **Paper:** "TreeAttMSA: Decoupling Cross-Modal Contexts with Tree-Structured Graph Attention for Multimodal Sentiment Analysis"  
-**Journal:** The Visual Computer  
-**DOI:**  DOI: 10.5281/zenodo.20229639 
 **GitHub:** https://github.com/xiaohanyue1/TREEATTMSA
 
 ## Requirements
